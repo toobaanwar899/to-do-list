@@ -10,7 +10,7 @@ Here is a screenshot of the app:
 ![Signup](./images/signup.PNG)
 ![Dashboard](./images/dashboard.PNG)
 ![Add Task](./images/add task.PNG)
-![Dshboard](./images/new dashboard.PNG)
+![Dshboard](./images/new.PNG)
 ![Edit task](./images/edit.PNG)
 
 
