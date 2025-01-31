@@ -6,11 +6,11 @@ This project is a to-do application that helps you manage tasks.
 ## Screenshot
 Here is a screenshot of the app:
 
-![Login](./images/login.png)
-![Signup](./images/signup.png)
-![Dashboard](./images/dashboard.png)
-![Add Task](./images/add task.png)
-![Dshboard](./images/new dashboard.png)
-![Edit task](./images/edit.png)
+![Login](./images/login.PNG)
+![Signup](./images/signup.PNG)
+![Dashboard](./images/dashboard.PNG)
+![Add Task](./images/add task.PNG)
+![Dshboard](./images/new dashboard.PNG)
+![Edit task](./images/edit.PNG)
 
 
